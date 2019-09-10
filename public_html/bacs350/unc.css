@@ -131,6 +131,7 @@ pre {
 .card {
     margin: 20px;
     border: 1px solid #0E3D65;
+    width: 40%;
 }
 
 .card-header {

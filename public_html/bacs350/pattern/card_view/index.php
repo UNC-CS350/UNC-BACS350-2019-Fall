@@ -1,26 +1,29 @@
 <?php
 
     /*
-        Display PHP Information about Web Server
+        Render a Card View within a Page
     */
-
-
-    $page_title = "Display PHP Information";
 
     $site_title = 'UNC BACS 350';
 
+    $page_title = "Card View Pattern";
+
     $content = '
         <p>
-            Display PHP Information about Web Server
+            Render a Card View within a Page
         </p>
         <ul>
             <li>
                 <a href="..">Other Design Patterns</a>
             </li>
             <li>
-                <a href="info.php">Display PHP and Web Server Information</a>
+                <a href="card_view.html">Simple HTML</a>
+            </li>
+            <li>
+                <a href="card_view.php">PHP Code</a>
             </li>
         </ul>
+
     ';
 
     include '../../views.php';

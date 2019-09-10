@@ -36,6 +36,9 @@
             <li>
                 <a href="phpinfo">Display PHP Info</a>
             </li>
+            <li>
+                <a href="card_view">Card View Pattern</a>
+            </li>
         </ul>
     ';
 
