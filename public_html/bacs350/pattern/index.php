@@ -30,6 +30,12 @@
             <li>
                 <a href="render_page">Render Page Pattern</a>
             </li>
+            <li>
+                <a href="redirect">Redirect Page Pattern</a>
+            </li>
+            <li>
+                <a href="phpinfo">Display PHP Info</a>
+            </li>
         </ul>
     ';
 

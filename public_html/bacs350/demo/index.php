@@ -38,6 +38,9 @@
             <li>
                 <a href="05">Lesson #5 - Render Page</a>
             </li>
+            <li>
+                <a href="06">Lesson #6 - Setup Apache, MySQL, PHP</a>
+            </li>
         </ul>
     ';
 
